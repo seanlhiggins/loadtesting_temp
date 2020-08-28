@@ -9,4 +9,5 @@
 remote_dependency: shiggins_prof_services {
   url: "https://github.com/llooker/partner_homepage_template.git"
   ref: "master"
+
 }
